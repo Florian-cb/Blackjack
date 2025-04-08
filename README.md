@@ -53,16 +53,24 @@ Final Comparison - After both turns are complete:
 
 --- Code in Action ---
 
-Game Stimulation 1
+Game Stimulation 1 - Dealer Busts
 
-<img width="1291" alt="Screenshot 2025-04-08 at 12 50 37 PM" src="https://github.com/user-attachments/assets/e3468d68-a831-4962-a72a-00fe4e885507" />
+<img width="1077" alt="Screenshot 2025-04-08 at 3 06 03 PM" src="https://github.com/user-attachments/assets/d0e6959d-c3e6-4c06-90cf-f671bd93e21f" />
 
-Game Stimulation 2
+Game Stimulation 2 - Player Busts
 
-<img width="1291" alt="Screenshot 2025-04-08 at 12 52 30 PM" src="https://github.com/user-attachments/assets/d7935f14-cdd7-4797-9fdf-6d1bc25e93ec" />
+<img width="1077" alt="Screenshot 2025-04-08 at 3 05 48 PM" src="https://github.com/user-attachments/assets/8f5d3e1e-6a66-43bd-ad27-4a498581ef2b" />
 
-Game Stimulation 3
+Game Stimulation 3 - Player Wins
 
-Dealer tries to reach a hand value of 17 but fails.
+<img width="1077" alt="Screenshot 2025-04-08 at 2 56 37 PM" src="https://github.com/user-attachments/assets/b9ab6ec0-2578-4dcf-aa7e-2b1e95384b82" />
 
-<img width="1291" alt="Screenshot 2025-04-08 at 12 53 30 PM" src="https://github.com/user-attachments/assets/da3e956c-d0bd-4c14-89c3-24552ec1f445" />
+Game Stimulation 4 - Dealer Wins
+
+<img width="1077" alt="Screenshot 2025-04-08 at 3 00 49 PM" src="https://github.com/user-attachments/assets/f8751203-f437-4af0-8fc9-dce4733d3bf0" />
+
+Game Stimulation 5 - It's a tie
+
+<img width="1077" alt="Screenshot 2025-04-08 at 2 53 22 PM" src="https://github.com/user-attachments/assets/9e914dd9-6f5d-4734-a345-8e8146fe0d8e" />
+
+
