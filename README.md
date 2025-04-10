@@ -1,6 +1,7 @@
 # blackjack
 
 Overview
+
 This project is a console-based simulation of the traditional game of Blackjack. The goal of this project is to showcase my proficiency in Java by incorporating a wide range of relevant concepts and my ability to integrate programming logic into practical, real-world applications.
 
 --- Code in Action ---
