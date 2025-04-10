@@ -1,6 +1,31 @@
 # blackjack
- 
+
 Overview
+This project is a console-based simulation of the traditional game of Blackjack. The goal of this project is to showcase my proficiency in Java by incorporating a wide range of relevant concepts and my ability to integrate programming logic into practical, real-world applications.
+
+--- Code in Action ---
+
+Game Simulation 1 - Player Wins
+
+<img width="1077" alt="Screenshot 2025-04-08 at 2 56 37 PM" src="https://github.com/user-attachments/assets/b9ab6ec0-2578-4dcf-aa7e-2b1e95384b82" />
+
+Game Simulation 2 - Dealer Wins
+
+<img width="1077" alt="Screenshot 2025-04-08 at 3 00 49 PM" src="https://github.com/user-attachments/assets/f8751203-f437-4af0-8fc9-dce4733d3bf0" />
+
+Game Simulation 3 - Player Busts
+
+<img width="1077" alt="Screenshot 2025-04-08 at 3 05 48 PM" src="https://github.com/user-attachments/assets/8f5d3e1e-6a66-43bd-ad27-4a498581ef2b" />
+
+Game Simulation 4 - Dealer Busts
+
+<img width="1077" alt="Screenshot 2025-04-08 at 3 06 03 PM" src="https://github.com/user-attachments/assets/d0e6959d-c3e6-4c06-90cf-f671bd93e21f" />
+
+Game Simulation 5 - It's a tie
+
+<img width="1077" alt="Screenshot 2025-04-08 at 2 53 22 PM" src="https://github.com/user-attachments/assets/9e914dd9-6f5d-4734-a345-8e8146fe0d8e" />
+
+Game Mechanics Explained in Detail
 
 This program simulates a simplified version of Blackjack. The game flow follows traditional rules, where the player is initially dealt two cards and the dealer starts with one card visible and one hidden. The game then alternates between the player’s actions (hit or stand) and the dealer’s turn.
 
@@ -51,26 +76,5 @@ Final Comparison - After both turns are complete:
   If the dealer’s total is higher than the player’s, the player loses.
   If both totals are equal, the game ends in a tie.
 
---- Code in Action ---
-
-Game Simulation 1 - Player Wins
-
-<img width="1077" alt="Screenshot 2025-04-08 at 2 56 37 PM" src="https://github.com/user-attachments/assets/b9ab6ec0-2578-4dcf-aa7e-2b1e95384b82" />
-
-Game Simulation 2 - Dealer Wins
-
-<img width="1077" alt="Screenshot 2025-04-08 at 3 00 49 PM" src="https://github.com/user-attachments/assets/f8751203-f437-4af0-8fc9-dce4733d3bf0" />
-
-Game Simulation 3 - Player Busts
-
-<img width="1077" alt="Screenshot 2025-04-08 at 3 05 48 PM" src="https://github.com/user-attachments/assets/8f5d3e1e-6a66-43bd-ad27-4a498581ef2b" />
-
-Game Simulation 4 - Dealer Busts
-
-<img width="1077" alt="Screenshot 2025-04-08 at 3 06 03 PM" src="https://github.com/user-attachments/assets/d0e6959d-c3e6-4c06-90cf-f671bd93e21f" />
-
-Game Simulation 5 - It's a tie
-
-<img width="1077" alt="Screenshot 2025-04-08 at 2 53 22 PM" src="https://github.com/user-attachments/assets/9e914dd9-6f5d-4734-a345-8e8146fe0d8e" />
 
 
